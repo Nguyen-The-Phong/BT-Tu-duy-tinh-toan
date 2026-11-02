@@ -1,14 +1,3 @@
-my_dict={
-    "0":"Không",
-    "1":"Một",
-    "2":"Hai",
-    "3":"Ba",
-    "4":"Bốn",
-    "5":"Năm",
-    "6":"Sáu",
-    "7":"Bảy",
-    "8":"Tám",
-    "9":"Chín"
-}
-a=input()
-print(my_dict[a])
+a=int(input())
+def so(x):
+    
